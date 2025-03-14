@@ -1,4 +1,7 @@
 # Data Professional Survey Dashboard
+<img width="488" alt="image" src="https://github.com/user-attachments/assets/9a52ddec-f88f-4d16-b0c5-ee90558c0e47" />
+
+
 
 # Problem Statement
 This dashboard provides valuable insights into the data profession by analyzing survey responses from professionals in the field. It helps organizations, recruiters, and aspiring data professionals understand industry trends, job satisfaction, salary distribution, skill requirements, and career progression.
